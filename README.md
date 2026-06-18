@@ -67,7 +67,7 @@
 </div>
 
 <footer>
-© 2026 My Portfolio | Created by Napatsanan number calling 0816209690
+© 2026 My Portfolio | Created by Napatsanan [ number calling 0816209690 ]
 </footer>
 
 </body>
